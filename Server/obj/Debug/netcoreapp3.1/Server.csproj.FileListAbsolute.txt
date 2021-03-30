@@ -1,0 +1,16 @@
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Shared.dll
+D:\github\SocketProgramming\Server\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\github\SocketProgramming\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

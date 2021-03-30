@@ -1,0 +1,9 @@
+D:\github\SocketProgramming\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+D:\github\SocketProgramming\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+D:\github\SocketProgramming\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+D:\github\SocketProgramming\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
